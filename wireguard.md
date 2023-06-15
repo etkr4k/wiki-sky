@@ -2,7 +2,7 @@
 title: Wireguard
 description: 
 published: true
-date: 2023-06-15T14:08:26.627Z
+date: 2023-06-15T14:17:09.782Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-15T14:03:28.713Z
