@@ -2,7 +2,7 @@
 title: База знаний
 description: 
 published: true
-date: 2022-11-23T14:05:29.550Z
+date: 2023-06-15T14:06:26.102Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-07T22:55:26.033Z
@@ -10,6 +10,7 @@ dateCreated: 2022-07-07T22:55:26.033Z
 
 # Категории
 - [Links *Ссылки на скачивание*](/links)
+- [Wireguard *Настройка VPN клиента*](/wireguard)
 - [PDF *Редактирование, сжатие, конвертация*](/pdf)
 - [MFU *Работа с МФУ Brother L2700DWR*](/mfu)
 - [Сеть *Основы сети, VPN*](/network)
