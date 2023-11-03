@@ -2,7 +2,7 @@
 title: Installation
 description: 
 published: true
-date: 2023-07-27T21:11:27.877Z
+date: 2023-11-03T00:28:37.683Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-11T08:42:41.619Z
@@ -30,7 +30,7 @@ docker run -d -p 8000:8000 -p 9443:9443 --name portainer \
     --restart=always \
     -v /var/run/docker.sock:/var/run/docker.sock \
     -v portainer_data:/data \
-    portainer/portainer-ce:2.9.3
+    portainer/portainer-ce:latest
 ```
 `mkdir -p /etc/systemd/system/docker.service.d`
 
@@ -47,9 +47,10 @@ ExecStart=/usr/bin/dockerd -H unix:// -H tcp://0.0.0.0:2375
 `systemctl daemon-reload`
 
 `systemctl restart docker`
-```
+
 
 # Install Nginx Proxy Manager
+
 ```
 version: "3"
 services:
