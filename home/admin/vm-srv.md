@@ -2,7 +2,7 @@
 title: Installation
 description: 
 published: true
-date: 2023-11-03T00:28:37.683Z
+date: 2023-12-14T16:58:58.658Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-11T08:42:41.619Z
@@ -16,7 +16,7 @@ apt install \
 ca-certificates \
 curl \
 gnupg \
-lsb-release
+lsb-release -y
 ```
 
 `curl -fsSL https://get.docker.com -o get-docker.sh`
