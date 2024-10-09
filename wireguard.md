@@ -2,10 +2,10 @@
 title: Wireguard
 description: 
 published: true
-date: 2023-06-15T14:17:09.782Z
+date: 2024-10-09T23:03:43.476Z
 tags: 
 editor: markdown
-dateCreated: 2023-06-15T14:03:28.713Z
+dateCreated: 2024-10-09T22:37:30.004Z
 ---
 
 # Настройка клиентов WireGuard
